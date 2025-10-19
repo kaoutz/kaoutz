@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Kaoutar Zahraouy  
 
-<!--
-**kaoutz/kaoutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Ingénieure en Science des Données et Intelligence Artificielle, passionnée par la **data science**, le **machine learning** et les **solutions cloud**.  
+💡 J’aime transformer les données en informations utiles pour aider à la prise de décision et à l’innovation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Mes domaines d’intérêt :
+- Data Science & Machine Learning  
+- Cloud Computing (Google Cloud, Azure)  
+- Data Engineering (ETL, Big Data)  
+- Business Intelligence & Data Visualization (Power BI, Streamlit)
+
+---
+
+### 🛠️ Compétences principales :
+**Langages :** Python, SQL, JavaScript  
+**Outils :** Power BI, Pandas, NumPy, Scikit-learn, PySpark, TensorFlow  
+**Cloud :** Google Cloud Platform, Azure  
+**Autres :** Git, GitHub, Docker  
+
+---
+
+### 📫 Me contacter :
+- 💼 [LinkedIn](https://www.linkedin.com/in/kaoutar-zahraouy)  
+- 📧 **kaoutarzahraouy@gmail.com**
+
+---
+
+⭐ *Merci de visiter mon profil ! N’hésitez pas à découvrir mes projets ci-dessous.*  
