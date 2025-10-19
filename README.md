@@ -10,7 +10,7 @@ Je conçois, développe et déploie des solutions Data end-to-end : de la collec
 - 🎓 Diplômée en **Ingénierie de la connaissance et Science des données** – École des Sciences de l’Information (ESI Rabat)  
 - 💡 Intéressée par les projets mêlant **IA, Cloud et optimisation des processus décisionnels**  
 - 🌍 Curieuse, rigoureuse et orientée résultats  
-- 📍 Basée à Casablanca, Maroc  
+- 📍 Basée à Fès , Maroc  
 
 ---
 
