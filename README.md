@@ -1,7 +1,7 @@
 # Hi there, I'm Kaoutar Ez Zahraouy 👋
 
 <p align="center">
-  <img src="[LIEN_DE_VOTRE_IMAGE]" alt="DS Girlie Logo" width="300">
+  <img src="[Gemini_Generated_Image_pgz80kpgz80kpgz8.png]" alt="DS Girlie Logo" width="300">
 </p>
 
 ### Data Analyst | Data Science Graduate | Machine Learning Engineer 
