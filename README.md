@@ -1,8 +1,10 @@
 # Hi there, I'm Kaoutar Ez Zahraouy 👋
 
-![Banner](https://votre-lien-image-ici.png)
+<p align="center">
+  <img src="[LIEN_DE_VOTRE_IMAGE]" alt="DS Girlie Logo" width="300">
+</p>
 
-### Data Analyst | Data Science Graduate | Machine Learning Engineer
+### Data Analyst | Data Science Graduate | Machine Learning Engineer 
 ---
 
 > "Skilled in data analysis, data visualization, and machine learning, with experience using tools such as Python, SQL, and Power BI."
@@ -43,7 +45,7 @@
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/kaoutar-ez-zahraouy](https://www.linkedin.com/in/kaoutar-ez-zahraouy-284ab220b)
+- **LinkedIn:** [linkedin.com/in/kaoutar-ez-zahraouy-284ab220b](https://www.linkedin.com/in/kaoutar-ez-zahraouy-284ab220b)
 - **Email:** kaoutarezzahraouy@gmail.com
 
 ---
