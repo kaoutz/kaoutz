@@ -1,16 +1,18 @@
-# Hi there, I'm Kaoutar Ez Zahraouy 👋 
+# Hi there, I'm Kaoutar Ez Zahraouy 👋
 
-### Data Analyst | Data Science Graduate | Machine Learning Engineer 
+![Banner](https://votre-lien-image-ici.png)
+
+### Data Analyst | Data Science Graduate | Machine Learning Engineer
 ---
 
-> [cite_start]"Skilled in data analysis, data visualization, and machine learning, with experience using tools such as Python, SQL, and Power BI." [cite: 17]
+> "Skilled in data analysis, data visualization, and machine learning, with experience using tools such as Python, SQL, and Power BI."
 
 ---
 
 ### 🎓 Education & Background
-- [cite_start]🛡️ **Engineer's Degree** in Knowledge Engineering and Data Science from **Ecole des Sciences de l'Information (ESI)** (2021 - 2024).
-- [cite_start]🏫 **CPGE** MPSI & MP in Mathematics (2019 - 2021)[cite: 86].
-- [cite_start]📍 Based in **Fès, Morocco**[cite: 15].
+- 🛡️ **Engineer's Degree** in Knowledge Engineering and Data Science from **Ecole des Sciences de l'Information (ESI)** (2021 - 2024).
+- 🏫 **CPGE** MPSI & MP in Mathematics at Acharif Idrissi Taza (2019 - 2021).
+- 📍 Based in **Fès, Morocco**.
 
 ---
 
@@ -28,21 +30,21 @@
 ### 🚀 Highlighted Experience
 
 #### 🏦 Financial Data Science & Fraud Prevention
-- [cite_start]**Attijariwafa bank:** Developed predictive models (CNN, LSTM) for loan early repayment estimation[cite: 46, 49, 55].
-- [cite_start]**Cnexia:** Analyzing transaction data to detect suspicious patterns and reduce financial risks[cite: 33, 36, 40].
+- **Attijariwafa bank:** Developed predictive models (CNN, LSTM) for loan early repayment estimation.
+- **Cnexia:** Analyzing transaction data to detect suspicious patterns and reduce financial risks.
 
 #### 📊 Data Analytics & Operational Excellence
-- [cite_start]**Capgemini Engineering:** Developed interactive Power BI dashboards for the OptimDrive project to monitor KPIs[cite: 59, 63, 68].
-- [cite_start]**ALTEN MAROC:** Monitoring and analyzing technical incidents related to network and fiber services[cite: 21, 25, 28].
+- **Capgemini Engineering:** Developed interactive Power BI dashboards for the OptimDrive project to monitor KPIs.
+- **ALTEN MAROC:** Monitoring and analyzing technical incidents related to network and fiber services.
 
 #### 🌐 Web & Database Management
-- [cite_start]**RADEEF:** Designed relational databases and developed SQL queries for vehicle management systems[cite: 71, 77, 80].
+- **RADEEF:** Designed relational databases and developed SQL queries for vehicle management systems.
 
 ---
 
 ### 📫 Let's Connect!
-- [cite_start]**LinkedIn:** [linkedin.com/in/kaoutar-ez-zahraouy](https://www.linkedin.com/in/kaoutar-ez-zahraouy-284ab220b) [cite: 3, 4]
-- [cite_start]**Email:** kaoutarezzahraouy@gmail.com [cite: 2]
+- **LinkedIn:** [linkedin.com/in/kaoutar-ez-zahraouy](https://www.linkedin.com/in/kaoutar-ez-zahraouy-284ab220b)
+- **Email:** kaoutarezzahraouy@gmail.com
 
 ---
-[cite_start]*“I enjoy exploring data, identifying patterns, and building solutions that help organizations use their data more effectively.”* [cite: 18]
+*“I enjoy exploring data, identifying patterns, and building solutions that help organizations use their data more effectively.”*
