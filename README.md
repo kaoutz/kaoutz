@@ -23,9 +23,9 @@
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Programming Languages** | Python, SQL, HTML, CSS, JavaScript, PHP |
-| **Data Science & ML** | Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, TensorFlow, Keras, Classification, Clustering, Regression, Evaluation |
-| **NLP & Generative AI** | BERT, BART, T5, Transformers, Text Summarization, NER, HuggingFace, SpaCy, NLTK |
-| **Computer Vision** | OpenCV, CNNs, ResNet, VGG, MobileNet, YOLOv5, Image Classification, Object Detection |
+| **Data Science & ML** | Pandas, NumPy, Scikit-learn, XGBoost, TensorFlow, Keras, Classification, Clustering, Regression, Evaluation |
+| **NLP & Generative AI** | BERT, BART, T5, Transformers, Text Summarization, NER, HuggingFace |
+| **Computer Vision** | OpenCV, CNNs, ResNet, Image Classification, Object Detection |
 | **Cloud & Big Data** | Spark, Hadoop, Databricks, AWS, GCP, Azure, PySpark, BigQuery |
 | **BI & Visualization** | Power BI, Tableau, Matplotlib, Seaborn, Plotly |
 | **Databases & Tools** | MySQL, PostgreSQL, MongoDB, Neo4j, Git, Docker, VS Code, Jupyter Notebook |
