@@ -1,7 +1,7 @@
 # Hi there, I'm Kaoutar Ez Zahraouy 👋
 
 <p align="center">
-  <img src="["C:\Users\dell\Downloads\Gemini_Generated_Image_pgz80kpgz80kpgz8.png"]" alt="Data Science Girlie Logo" width="300">
+  <img src="[LIEN_DE_VOTRE_IMAGE_LOGO]" alt="Data Science Girlie Logo" width="300">
 </p>
 
 ### Data Analyst | Data Science Graduate | Machine Learning Engineer 
@@ -18,14 +18,17 @@
 
 ---
 
-### 🛠️ My Technical Toolbox
+### 🛠️ Technical Skills
 
-| Category | Tools & Technologies |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Data Analysis & Viz** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) |
-| **Machine Learning** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
-| **Infrastructure & Security** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Network Security](https://img.shields.io/badge/Network_Security-Shield-green) ![ITIL](https://img.shields.io/badge/ITIL-Certification-blue) |
-| **Collaboration** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+| **Programming Languages** | Python, SQL, HTML, CSS, JavaScript, PHP |
+| **Data Science & ML** | Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, TensorFlow, Keras, Classification, Clustering, Regression, Evaluation |
+| **NLP & Generative AI** | BERT, BART, T5, Transformers, Text Summarization, NER, HuggingFace, SpaCy, NLTK |
+| **Computer Vision** | OpenCV, CNNs, ResNet, VGG, MobileNet, YOLOv5, Image Classification, Object Detection |
+| **Cloud & Big Data** | Spark, Hadoop, Databricks, AWS, GCP, Azure, PySpark, BigQuery |
+| **BI & Visualization** | Power BI, Tableau, Matplotlib, Seaborn, Plotly |
+| **Databases & Tools** | MySQL, PostgreSQL, MongoDB, Neo4j, Git, Docker, VS Code, Jupyter Notebook |
 
 ---
 
